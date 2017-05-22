@@ -33,7 +33,7 @@ services:
       PORT: "80"
     command: /src/bin/wopr
 
-  www:
+  web:
     build: www.soulshake.net
     image: ${REGISTRY-127.0.0.1:5000}/www.soulshake.net:${TAG-latest}
     deploy:
