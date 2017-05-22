@@ -34,6 +34,9 @@ services:
     command: /src/bin/wopr
 
   web:
+    image: nginx
+
+  www:
     build: www.soulshake.net
     image: ${REGISTRY-127.0.0.1:5000}/www.soulshake.net:${TAG-latest}
     deploy:
