@@ -1,12 +1,12 @@
 [submodule "www.soulshake.net"]
 	path = stacks/www.soulshake.net
-	url = git@github.com:soulshake/www.soulshake.net.git
+	url = git://github.com/soulshake/www.soulshake.net.git
 [submodule "cv.soulshake.net"]
 	path = stacks/cv.soulshake.net
-	url = git@github.com:soulshake/cv.soulshake.net.git
+	url = git://github.com/soulshake/cv.soulshake.net.git
 [submodule "blog.soulshake.net"]
 	path = stacks/blog.soulshake.net
-	url = git@github.com:soulshake/blog.soulshake.net.git
+	url = git://github.com/soulshake/blog.soulshake.net.git
 [submodule "stacks/aiguillage"]
 	path = stacks/aiguillage
-	url = git@github.com:soulshake/aiguillage.git
+	url = git://github.com/soulshake/aiguillage.git
